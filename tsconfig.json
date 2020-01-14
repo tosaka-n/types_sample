@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "lib": ["es2015"],
+    "moduleResolution": "node",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "sourceMap": false,
+    "inlineSourceMap": false,
+    "inlineSources": false,
+    "target": "es5",
+    "outDir": ".build",
+    "rootDir": "./"
+  },
+  "exclude": ["node_modules"]
+}
